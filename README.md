@@ -13,9 +13,8 @@
 # Run Instructions
 1. If you do not have Python 3.6, download [here(Bottom of Page)](https://www.python.org/downloads/release/python-365/)
 2. [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the repo or download it.
-3. Open your command prompt, and navigate to your text-royale-release folder
-    1. If you cloned it, and you use default clone settings, use `cd documents/github/text-royale-release`
-4. Once there, simply type `python main.py`
+3. Navigate to the folder and open main.py
+    1. If it does not work, make sure you have python installed
 5. From there, create a new character and test out the weapons on the range!
 
 **PLEASE REPORT ALL BUGS TO MY DISCORD: Ronovo#1337**
