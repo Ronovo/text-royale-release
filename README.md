@@ -17,3 +17,5 @@
     1. If you cloned it, and you use default clone settings, use `cd documents/github/text-royale-release`
 4. Once there, simply type `python main.py`
 5. From there, create a new character and test out the weapons on the range!
+
+**PLEASE REPORT ALL BUGS TO MY DISCORD: Ronovo#1337**
