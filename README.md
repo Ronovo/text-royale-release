@@ -1,3 +1,5 @@
+**PLEASE REPORT ALL BUGS TO MY DISCORD: Ronovo#1337**
+
 # Text Royale Release Build
 <br>
 - Current Version: 0.5, Gun Range Build
