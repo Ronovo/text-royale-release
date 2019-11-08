@@ -12,6 +12,7 @@
 
 # Run Instructions
 1. If you do not have Python 3.6, download [here(Bottom of Page)](https://www.python.org/downloads/release/python-365/)
+    1. Make sure you get the 32-bit version to use Tkinter. YOU WILL GET ERRORS IF YOU USE 64 BIT
 2. [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the repo or download it.
 3. Navigate to the folder and open main.py
     1. If it does not work, make sure you have python installed
